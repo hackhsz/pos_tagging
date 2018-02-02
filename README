@@ -1,0 +1,3 @@
+This is a module for pos_of_tagging using NLTK package in python.  It has trained two corpus, and then evaluate the third one as result.
+
+From the result, we can see that bi-gram tagging is the most effective one. 
