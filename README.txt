@@ -1,0 +1,65 @@
+hushizh Shizhong_Hu
+
+A1
+
+UNIGRAMS NATURAL -13.766408817
+BIGRAMS natural that -4.05889368905
+TRIGRAMS natural that he -1.58496250072
+
+
+A2:
+
+A2.uni.txt
+The perplexity is 1019.16531565
+
+A2.bi.txt
+The perplexity is 50.6997890992
+
+A2.tri.txt
+The perplexity is 5.9953236764
+
+A3:
+the perplexity is 4160.09008544
+
+A4:
+Under the model without interpolation, the performes was better with the Tri model. With interppolation in hand, the perplexity is bigger than tri model and worse than uni. Thus, I would argue without interpolation is a better model because it is more stable
+
+A5:
+
+Sample1:
+ The perplexity is 11.7892685346
+Sample2:
+ The perplexity is 1611240462.03
+
+
+
+B2:
+TRIGRAM CONJ ADV ADP -2.9755173148
+TRIGRAM DET  NOUN NUM -9.9700526163
+TRIGRAM NOUN PRT PRON -11.0854724592
+
+B3
+:
+
+
+B4
+
+* * 0
+Night NOUN -13.8819025994
+Place VERB -15.4538814891
+prime ADJ  -10.6948327183
+STOP STOP  0
+_RARE_VERB -3.17732085089
+
+
+B5:
+
+
+Percent correct tags: 92.1107202729
+
+
+B6:
+
+Precent correct tags:0
+
+TIME: 486.6s
